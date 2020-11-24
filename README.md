@@ -11,7 +11,7 @@ beta-reduced equivalent.
 # Installation
 1. Clone this repository
 2. Run `dune build`
-3. Running `./reduce.sh example.src` should print `az`
+3. Running `./reduce.sh example.src` should print `s` and `example2.src` `true`
 
 # Syntax
 The [simply typed lambda calculus](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus)
