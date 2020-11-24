@@ -3,6 +3,10 @@ A messy but functional implementation of the simply typed lambda calculus
 written mostly for learning purposes.
 Running reduce.sh on a file containing a lambda expression will print the
 beta-reduced equivalent.
+The interpreter uses a form of lazy evaluation to stop unnecessesary
+computation being performed.
+I'm not quite sure if it's optimal in that regard but it should be better
+than strict evaluation.
 
 # Dependencies
 + [OCaml](https://ocaml.org/)
