@@ -38,7 +38,8 @@ This project especially was meant to help me learn about implementing type
 systems.
 
 # Why is it messy?
-I was really excited to get this working after finishing [my implementation] of
+I was really excited to get this working after finishing
+[my implementation](https://github.com/Techser/LambdaCalculus) of
 the regular lambda calculus so I rushed through writting the code.
 This, as you might expect, resulted in most of the code (especially the parser)
 being a complete mess.
