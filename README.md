@@ -49,5 +49,6 @@ from building this.
 # Why OCaml?
 1. Pattern matching is awesome for this kind of thing
 2. Go doesn't have good support for union types (if it did I would probably be
-using that as it's subjectively the best programming language yet)
+using that as it's subjectively the best programming language yet
+(although I am warming up to OCaml))
 3. https://www.cs.ubc.ca/~murphyk/Software/Ocaml/why_ocaml.html
